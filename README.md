@@ -1,1 +1,1 @@
-<b>Medium Link:</b> 
+<b>Medium Link:</b> https://medium.com/@mertkose/go-ve-templ-ile-hot-reload-uygulama-geliştirme-gotth-stack-cb24047546a3
